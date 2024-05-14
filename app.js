@@ -139,6 +139,28 @@
 // }
 
 
+// // question 15
+
+// var ask = +prompt("enter your time in 24 hour format")
+// if (ask >= 6 && ask <= 9 ){
+//     console.log("Breakfast is served")
+// }
+// else if (ask >= 11 && ask <= 13){
+//     console.log("lunch time")
+// }
+// else if (ask >= 17 && ask <= 20){
+//     console.log("It's dinner time")
+// }
+// else {
+//     console.log("Sorry you have to wait or go get some snacks")
+// }
+
+// question 16
+
+// var value = "baasil"
+// var type = typeof(value)
+// console.log(`It's the value ${value} and it's type is ${type}.`)
+
 // question 17
 
 // var vowel = prompt (" input your character ")
@@ -200,10 +222,6 @@
 // }
 
 
-
-
-
-
 // var num1 = +prompt("first number ")
 // var operator = prompt("operator \n + \n - \n /  \n * \n % ")
 // var num2 = +prompt("second number")
@@ -228,5 +246,7 @@
 //     }
 // }
 // calculator(num1, num2, operator)
+
+
 
 
